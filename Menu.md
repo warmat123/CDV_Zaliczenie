@@ -27,7 +27,7 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 
 ### Z każdego skłądnika można zrezygnować lub zminić go 
 
-
+<img src="img/sałatki.jpg" width=400>
 
 # Sałatki
 ### Do każdej sałatki dodajemy Paluchy Czosnkowe
@@ -41,6 +41,8 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 | |Burak, ser feta, rukola, oliwa , miód, ocet balsamiczny|   |
 |4|GRECKA                                                         | 30|
 | |Pomidory, ogórek,oliwki,ser feta, zioła,oliwa|   |
+
+<img src="img/pasty.jpg" width=400>
 
 
 # Pasty 
@@ -60,6 +62,7 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 |6.    |Agilo Olio.                                                                                    |     18|
 |       | Czosnek,ostra papryka, oliwa, pietruszka.                  |         |
 
+<img src="img/napojezimne.jpg" width=400>
 
 # Napoje zimne 
 
@@ -76,11 +79,15 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 |    |Średnia 0.5l| Duża 0.7l|
 |    | 5|  8|
 
-Nasze specjały
+<img src="img/naszspecjaly.jpg" width=400>
+
+# Nasze specjały
   Zapytaj się obsługi o specjał dnia 
-  
+
   
   # Napoje Ciepłe 
+  
+  <img src="img/herbata.jpg" width=400>
   
   ## Herbata
  
@@ -98,6 +105,9 @@ Nasze specjały
 |owocowa| |
     
 # Kawa z Ekspresu
+
+<img src="img/kawa.jpg" width=400>
+
 |Kawy| Cana|
 |---|---|
 |Biała|12|
@@ -109,9 +119,11 @@ Nasze specjały
 | Amerricano| 10 |
 | Espresso Tonic | 16 |
 
-
-
 # Wina 
+
+
+<img src="img/wina.jpg" width=400>
+
 
 |      |Lampka 0.2| Karafka 1l |  |
 |---|---|---|---|
