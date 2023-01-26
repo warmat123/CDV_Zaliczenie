@@ -111,12 +111,11 @@ Nasze specjały
 
 # Wina 
 
-Lampka 0.2    Karafka 1l
-
-Wytrawne Połwytrawne Połsłodkie Słodkie 
-
-Białe Czerwone 
-
-Francuskie Hiszpańskie Włoskie Polskie 
+|      |Lampka 0.2| Karafka 1l |  |
+|---|---|---|---|
+|  | 17| 45| |
+|Wytrawne|Połwytrawne|Połsłodkie |Słodkie| 
+|  |Białe|Czerwone|  | 
+|Francuskie|Hiszpańskie|Włoskie|Polskie|
 
 
