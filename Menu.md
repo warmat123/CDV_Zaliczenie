@@ -80,39 +80,32 @@ Nasze specjały
   
   # Napoje Ciepłe 
   
-  Herbata
-  
-  420
-    zielona
+  ## Herbata
+ 
+ |Herbata| Cena  |
+|---|---|
+|420|12|
+|zielona| |
+|Betty|10
+|czarna|  |
+|HAZE|12|
+|cytrynowa| |
+|Hipis|12|
+|jaśminowa| |
+|Cough| 12|
+|owocowa| |
     
-Betty
-  czarna
-  
-Hipis
-  jaśminowa
-  
-Hazel 
-  Cytrynowa
-  
-Cough
-  Owocowa
-  
 # Kawa z Ekspresu
-Biała
-
-Czarna
-
-Espresso
-
-Capuccino
-
-Latte Machiato
-
-Flat White
-
-Amercicano
-
-Espresso Tonic
+|Kawy| Cana|
+|---|---|
+|Biała|12|
+|Czarna|10|
+|Espresso|8|
+|Cappucino|13|
+| Latte Machiato | 16 |
+| Flat White | 15  |
+| Amerricano| 10 |
+| Espresso Tonic | 16 |
 
 
 
