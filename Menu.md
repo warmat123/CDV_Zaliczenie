@@ -2,7 +2,7 @@
 
 ## Nasze specjały
 
-## Pizza
+# Pizza
 
 Ameryczka
 
@@ -26,7 +26,7 @@ Juliusz
 
 
 
-## Sałątki
+# Sałatki
 ### Do każdej sałatki dodajemy Paluchy Czosnkowe
 
 Cezar 
@@ -36,4 +36,19 @@ Meksykańska
 Z Buraka
 
 Grecka 
+
+
+# Pasty 
+
+Carbonara
+
+Bolonese
+
+Mac&Cheese
+
+Szpinakowe Pesto
+
+Tagiatelle z Kurczakiem 
+
+Aglio Olio
 
