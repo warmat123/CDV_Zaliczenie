@@ -1,6 +1,5 @@
 # Menu 
 
-## Nasze specjały
 
 # Pizza
 
@@ -69,3 +68,42 @@ Gaz Niegaz
 
 Nasze specjały
   Zapytaj się obsługi o specjał dnia 
+  
+  
+  # Napoje Ciepłe 
+  
+  Herbata
+  
+  420
+    zielona
+    
+Betty
+  czarna
+  
+Hipis
+  jaśminowa
+  
+Hazel 
+  Cytrynowa
+  
+Cough
+  Owocowa
+  
+# Kawa z Ekspresu
+Biała
+
+Czarna
+
+Espresso
+
+Capuccino
+
+Latte Machiato
+
+Flat White
+
+Amercicano
+
+Espresso Tonic
+
+
