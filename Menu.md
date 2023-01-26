@@ -27,8 +27,10 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 
 ### Z każdego skłądnika można zrezygnować lub zminić go 
 
+<img src="img/dladzieci.jpg" width=400>
+
 # Dla wybrednych 
-|Lp. |   Cena|
+|Danie  |   Cena|
 |---|---|
 |Nie wiem| 20|
 |Zestaw 5 stripsów, frytki, sosy|  |
