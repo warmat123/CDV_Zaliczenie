@@ -2,8 +2,8 @@
 
 
 # Pizza
-
-Ameryczka
+|LP. | PIZZA:                                                       |32 CM| Cena|
+|1    |AMERYCZKA                                             |           |     34|
 
 Włoszka
 
