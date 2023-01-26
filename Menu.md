@@ -2,7 +2,7 @@
 
 ## Nasze specjały
 
-# Pizza
+## Pizza
 
 Ameryczka
 
@@ -21,3 +21,19 @@ Capriciosa
 Meksykańska
 
 Juliusz
+
+### Z każdego skłądnika można zrezygnować lub zminić go 
+
+
+
+## Sałątki
+### Do każdej sałatki dodajemy Paluchy Czosnkowe
+
+Cezar 
+
+Meksykańska
+
+Z Buraka
+
+Grecka 
+
