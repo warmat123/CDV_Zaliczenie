@@ -28,7 +28,8 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 
 # Sałatki
 ### Do każdej sałatki dodajemy Paluchy Czosnkowe
-|Lp.|                                                          | Cena| 
+|Lp.|                                                          | Cena|
+|--|--------|------------------------------------------------------------------------------|
 |1|CEZAR                                                         | 30|
 | |Sałata,kurczak,oliwa,majonez,musztarda,czosnek,zioła, pomidory|   |
 
