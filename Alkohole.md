@@ -1,4 +1,4 @@
-#Alkohole
+# Alkohole
 
 ## Drinki 
 
@@ -34,3 +34,7 @@
 ciemny rum , syrop imbirowy, limonka, sweet, ginger ale, mięta|  |
 |Mojhito|  28|
 |jasny rum, limonka, mięta sweet, woda gazowana|   |
+|Sex Na Plaży|  28|
+| likier brzoskwiniowy, wódka , sok pomarańczowy sweet, sok żurawinowy| |
+|Tequilla Sunrise|    28|
+|tequila, sok pomarańczowy, grenadyna|   |
