@@ -1,6 +1,9 @@
 # Kontakt
 
 
+<img src="img/kontakt.jpg" width=400>
+
+
 Nr Telefonu 
 # 692 137 420
 
