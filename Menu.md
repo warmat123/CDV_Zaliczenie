@@ -40,29 +40,22 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 | |Pomidory, ogórek,oliwki,ser feta, zioła,oliwa|   |
 
 
-Cezar 
-
-Meksykańska
-
-Z Buraka
-
-Grecka 
-
-
 # Pasty 
 
-Carbonara
-
-Bolonese
-
-Mac&Cheese
-
-Szpinakowe Pesto
-
-Tagiatelle z Kurczakiem 
-
-Aglio Olio
-
+|Lp.  |                                                                                                      |Cena|
+|------|-------------------------------------------------------------------------------------|-------|
+|1.    |Carbonara.                                                                                    |     24|
+|       | Jajka,pancetta,czosnek,pietruszka,ser włoski , zioła.                  |         |
+|2.    |Boloneese.                                                                                    |     24|
+|       | Mięso mielone, cebula,czosnek, marchewka,oliwa,pomidory,zioła.                 |         |
+|3.    |Mac&Cheese                                                                                    |     20|
+|       | Masło, mąka pszenna, mleko, cheddar, zioła.                |         |
+|4.    |Szpinakowe Pesto.                                                                                    |     26|
+|       | Szpinak,pietruszka,czosnek,oliwa,sok z cytryny, zioła, kurczak(możliwa opcja bez)                   |         |
+|5.    |Tagietelle z Kurczkaiem.                                                                                     |     27|
+|       | Kurczak, śmietana, mozzarela,oliwa,zioła,pomidory, szuszone pomidory.                 |         |
+|6.    |Agilo Olio.                                                                                    |     18|
+|       | Czosnek,ostra papryka, oliwa, pietruszka.                  |         |
 
 
 # Napoje zimne 
