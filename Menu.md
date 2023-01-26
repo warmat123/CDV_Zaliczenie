@@ -1,5 +1,6 @@
 # Menu 
 
+# Pizza
 LP. | PIZZA:                                                       |32 CM| Cena|
 |-----|--------------------------------------------------------|---------|--------|
 |1    |AMERYCZKA                                             |           |     34|
@@ -60,16 +61,16 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 
 # Napoje zimne 
 
-Softy
-Cola, Fanta , Sprite, Tonic 
+|Softy|                    |średnie 0.5l|duże 0.7l|
+|     |Cola, Fanta , Sprite, Tonic | 8| 13|
 (dostępne też w wersji zero)
+|Soki|                      |            |         |            
+|     |Jabłkowy, Pomarańczowy, Multiwitamina, Porzeczkowy| 6|10|
 
-Soki 
-Jabłkowy, Pomarańczowy, Multiwitamina, Porzeczkowy
-
-Woda
-Gaz Niegaz
-Średnia Duża
+|Woda|   |      |          
+|    |Gaz|Niegaz|
+|    |Średnia 0.5l| Duża 0.7l|
+|    | 5|  8|
 
 Nasze specjały
   Zapytaj się obsługi o specjał dnia 
