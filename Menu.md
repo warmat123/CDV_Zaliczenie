@@ -62,12 +62,14 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 # Napoje zimne 
 
 |Softy|                    |średnie 0.5l|duże 0.7l|
+|---|---|---|---|
 |     |Cola, Fanta , Sprite, Tonic | 8| 13|
 (dostępne też w wersji zero)
 |Soki|                      |            |         |            
 |     |Jabłkowy, Pomarańczowy, Multiwitamina, Porzeczkowy| 6|10|
 
-|Woda|   |      |          
+|Woda|   |      |
+|---|---|---|
 |    |Gaz|Niegaz|
 |    |Średnia 0.5l| Duża 0.7l|
 |    | 5|  8|
