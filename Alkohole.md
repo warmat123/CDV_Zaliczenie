@@ -49,3 +49,12 @@ ciemny rum , syrop imbirowy, limonka, sweet, ginger ale, mięta|  |
 |Guinness| 18|23|                       
 |Żywiec Jasny|12|18|
 
+# Wina
+
+|      |Lampka 0.2| Karafka 1l |  |
+|---|---|---|---|
+|  | 17| 45| |
+|Wytrawne|Połwytrawne|Połsłodkie |Słodkie| 
+|  |Białe|Czerwone|  | 
+|Francuskie|Hiszpańskie|Włoskie|Polskie|
+
