@@ -2,6 +2,10 @@
 
 ## Drinki 
 
+
+<img src="img/drinki.jpg" width=400>
+
+
 |Drinki|Cena|
 |---|---|
 |Long Island Ice Tea| 35|
@@ -42,6 +46,8 @@ ciemny rum , syrop imbirowy, limonka, sweet, ginger ale, mięta|  |
 
 ## Piwo
 
+<img src="img/piwo.jpg" width=400>
+
 |               | ŚREDNIE 330 ml | DUŻE 550ml  |
 |---|---|---|
 |Lech| 12| 18|      
@@ -49,7 +55,9 @@ ciemny rum , syrop imbirowy, limonka, sweet, ginger ale, mięta|  |
 |Guinness| 18|23|                       
 |Żywiec Jasny|12|18|
 
-# Wina
+## Wina
+
+<img src="img/wina.jpg" width=400>
 
 |      |Lampka 0.2| Karafka 1l |  |
 |---|---|---|---|
