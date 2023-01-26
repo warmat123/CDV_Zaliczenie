@@ -27,6 +27,22 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 
 ### Z każdego skłądnika można zrezygnować lub zminić go 
 
+<img src="img/dladzieci.jpg" width=400>
+
+# Dla wybrednych 
+|Danie  |   Cena|
+|---|---|
+|Nie wiem| 20|
+|Zestaw 5 stripsów, frytki, sosy|  |
+|Nie Jestem głodn*|14|
+|Minni Pizza Margaritta|  |
+|Nic Nie Chce| 15|
+|Porcja frytek,Nachosy, Sosy| |
+|Ty mi coś wybierz |13|
+|Mini Porcja Pasty Bolonese| |
+
+
+
 <img src="img/sałatki.jpg" width=400>
 
 # Sałatki
