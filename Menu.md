@@ -4,46 +4,31 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 |-----|--------------------------------------------------------|---------|--------|
 |1    |AMERYCZKA                                             |           |     34|
 |      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
+|||||
+|2    |WŁOSZKA                                             |           |     28|
+|      ||( Mozzarela, sos pomidorowy, bazylia, szynka prossciuto, rukola).|    |   |
+|||||
+|3    |POLACZEK                                              |           |     37|
+|      |(Cebula, kiełbasa, papryka czerwona, sos czosnkowo-serowy, kukurydza).   |    |   |
 |-----|--------------------------------------------------------|---------|--------|
-|1    |AMERYCZKA                                             |           |     34|
-|      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
+|4    |BYCZEK                                             |           |     35|
+|      |(Chorizo, sos pomidoro-chilli, oliwki, papryka czerwona, ser buffalo).  |    |   |
 |-----|--------------------------------------------------------|---------|--------|
-|1    |AMERYCZKA                                             |           |     34|
-|      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
+|5    |SZKOT                                            |           |     33|
+|      |( Wędzona szynka, sos na bazie whiksy, ser lazur, szpinak, suszone pomidory w oleju).    . |    |   |
 |-----|--------------------------------------------------------|---------|--------|
-|1    |AMERYCZKA                                             |           |     34|
-|      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
+|6    |MARGARITTA                                           |           |     26|
+|      | ( Ser mozzarela, sos pomidorowy, bazylia, oliwa). |    |   |
 |-----|--------------------------------------------------------|---------|--------|
-|1    |AMERYCZKA                                             |           |     34|
-|      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
+|7    |CAPRICIOSA                                           |           |     30|
+|      |(Ser mozzarela, sos pomidorowy, pieczone boczniaki, szynka).  |    |   |
 |-----|--------------------------------------------------------|---------|--------|
-|1    |AMERYCZKA                                             |           |     34|
-|      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
+|8    |MEKSYKAŃSKA                                             |           |     36|
+|      |(Sos pomidorowy chilli, fasola, jalapenio, kukurydza, nachosy, kurczak w pikantnym sosie).  |    |   |
 |-----|--------------------------------------------------------|---------|--------|
-|1    |AMERYCZKA                                             |           |     34|
-|      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
-|-----|--------------------------------------------------------|---------|--------|
-|1    |AMERYCZKA                                             |           |     34|
-|      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
-|-----|--------------------------------------------------------|---------|--------|
-|1    |AMERYCZKA                                             |           |     34|
-|      |(Papryka  jalapenio,kukurydza, karmelizowany boczek, ser cheddar, sos Pomidorowo-BBQ, Chetosy serowe). |    |   |
-
-
-           
-Polaczek
-
-Byczek
-
-Szkot
-
-Margaritta
-
-Capriciosa
-
-Meksykańska
-
-Juliusz
+|9    |JULIUSZ                                          |           |     34|
+|      | (Kurczak w przyprawach Cezar, mini mozzarela, pomidor , szynka prossciutto, rukola, cebula czerwona). |    |   |
+      
 
 ### Z każdego skłądnika można zrezygnować lub zminić go 
 
