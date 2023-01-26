@@ -40,11 +40,12 @@ ciemny rum , syrop imbirowy, limonka, sweet, ginger ale, mięta|  |
 |tequila, sok pomarańczowy, grenadyna|   |
 
 
-## ## Piwo
+## Piwo
 
 |               | ŚREDNIE 330 ml | DUŻE 550ml  |
-|Lech|      
-|Kozel|      
-|Guinness|                         
-|Żywiec Jasny|
+|---|---|---|
+|Lech| 12| 18|      
+|Kozel|12|18|      
+|Guinness| 18|23|                       
+|Żywiec Jasny|12|18|
 
