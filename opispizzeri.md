@@ -3,7 +3,7 @@
 
 # Pizzeria Cool Dope Visit 
 ## Miejsce ze swoim własnym klimatem.
-##Założone przez dwóch kumpli ze studiów by połączyć swoje pasje. Czyli gotowanie, dobrą housową muzykę, i kontakt z ludźmi. 
+## Założone przez dwóch kumpli ze studiów by połączyć swoje pasje. Czyli gotowanie, dobrą housową muzykę, i kontakt z ludźmi. 
 ## Miejsce stworzone po to by posiedzieć, porozmawiać, posłuchać ciekawej muzyki na żywo , i spędzić czas w gronie osób z takim samym vibe’m jak #TY!
 
 
