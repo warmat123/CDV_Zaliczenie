@@ -119,17 +119,5 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 | Amerricano| 10 |
 | Espresso Tonic | 16 |
 
-# Wina 
-
-
-<img src="img/wina.jpg" width=400>
-
-
-|      |Lampka 0.2| Karafka 1l |  |
-|---|---|---|---|
-|  | 17| 45| |
-|Wytrawne|Połwytrawne|Połsłodkie |Słodkie| 
-|  |Białe|Czerwone|  | 
-|Francuskie|Hiszpańskie|Włoskie|Polskie|
 
 
