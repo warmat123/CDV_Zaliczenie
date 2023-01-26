@@ -32,6 +32,12 @@ LP. | PIZZA:                                                       |32 CM| Cena|
 |--|--------|------------------------------------------------------------------------------|
 |1|CEZAR                                                         | 30|
 | |Sałata,kurczak,oliwa,majonez,musztarda,czosnek,zioła, pomidory|   |
+|2|MEKSYKAŃSKA                                                        | 34|
+| |Por, kukurydza, fasola,papryka,ser żółty , majonez , zioła, papryka chilli|   |
+|3|Z BURAKA                                                         | 28|
+| |Burak, ser feta, rukola, oliwa , miód, ocet balsamiczny|   |
+|4|GRECKA                                                         | 30|
+| |Pomidory, ogórek,oliwki,ser feta, zioła,oliwa|   |
 
 
 Cezar 
