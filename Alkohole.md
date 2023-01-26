@@ -38,3 +38,13 @@ ciemny rum , syrop imbirowy, limonka, sweet, ginger ale, mięta|  |
 | likier brzoskwiniowy, wódka , sok pomarańczowy sweet, sok żurawinowy| |
 |Tequilla Sunrise|    28|
 |tequila, sok pomarańczowy, grenadyna|   |
+
+
+## ## Piwo
+
+|               | ŚREDNIE 330 ml | DUŻE 550ml  |
+|Lech|      
+|Kozel|      
+|Guinness|                         
+|Żywiec Jasny|
+
