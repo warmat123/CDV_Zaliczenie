@@ -52,3 +52,20 @@ Tagiatelle z Kurczakiem
 
 Aglio Olio
 
+
+
+# Napoje zimne 
+
+Softy
+Cola, Fanta , Sprite, Tonic 
+(dostępne też w wersji zero)
+
+Soki 
+Jabłkowy, Pomarańczowy, Multiwitamina, Porzeczkowy
+
+Woda
+Gaz Niegaz
+Średnia Duża
+
+Nasze specjały
+  Zapytaj się obsługi o specjał dnia 
